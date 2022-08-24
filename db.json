@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "AYÇİÇEĞİ RESTAURANT",
+      "email": "aycicegi@edirne.com.tr",
+      "mobile": "+90 545 554 55 45",
+      "address": "Next to the Erasta Mall, Ayşekadın, Edirne Merkez / Türkiye ",
+      "services": "Delicious Turkish foods and Deserts"
+    },
+    {
+      "name": "Restaurant 1",
+      "email": "restaurant1@gmail.com",
+      "mobile": "+90 552 615 22 39",
+      "address": "Trial St. / USA",
+      "services": "Hamburger & Chips",
+      "id": 3
+    }
+  ],
+  "signup": [
+    {
+      "name": "Batuhan",
+      "email": "batuhanarik123@gmail.com",
+      "mobile": "0552 615 22 39",
+      "password": "batuhan39",
+      "id": 1
+    },
+    {
+      "name": "Batuhan",
+      "email": "testuser@gmail.com",
+      "mobile": "+905555455656",
+      "password": "test123",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
